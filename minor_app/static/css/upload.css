@@ -1,0 +1,69 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+    background-image: url('https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6070%252C3414%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-03%252F840e54e0-4cc9-11e9-b55f-977977823096%26client%3Da1acac3e1b3290917d92%26signature%3De252dff3278ea5b41d28488f8cbc89c86cbd6c4f&client=amp-blogside-v2&signature=0da49740097f3aef22cec2e8b0159be7b5198582');
+  margin:0;
+}
+.jumbotron {
+background-image: url('https://3.bp.blogspot.com/-b2mpEqE3PfU/XG3XuPK0aqI/AAAAAAAAGZI/yedDX-lmyVAiKbdqB7QHVut-OzQQeupPACHMYCw/s1600/weframes-artificial-neural-network-ann-in-machine-learning.jpg');
+height: 200px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.jumbotron h1 {
+
+
+background-image: -webkit-gradient(linear,0% 0%,40% 100%,from(#a6c1ee),to(#B2C1EE));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+font-size: 48px;
+
+font-family: 'Shift', sans-serif;
+font-weight: bold;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 80vw;
+  margin: 0 auto;
+  min-height: 50vh;
+}
+.btn {
+  flex: 1 1 auto;
+   margin-left: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  padding: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+ /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+ }
+
+/* Demo Stuff End -> */
+
+/* <- Magic Stuff Start */
+
+.btn:hover {
+  background-position: right center; /* change the direction of the change here */
+   width: 20em;  height: 3em;
+}
+
+
+.btn-2 {
+  background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+    width: 20em;  height: 3em;
+  font-size: 100px;
+
+
+}

@@ -1,0 +1,54 @@
+
+.jumbotron {
+background-image: url('https://3.bp.blogspot.com/-b2mpEqE3PfU/XG3XuPK0aqI/AAAAAAAAGZI/yedDX-lmyVAiKbdqB7QHVut-OzQQeupPACHMYCw/s1600/weframes-artificial-neural-network-ann-in-machine-learning.jpg');
+height: 50px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.jumbotron h1 {
+
+
+background-image: -webkit-gradient(linear,0% 0%,40% 100%,from(#a6c1ee),to(#B2C1EE));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+font-size: 48px;
+
+font-family: 'Shift', sans-serif;
+font-weight: bold;
+
+}
+.btn {
+  flex: 1 1 auto;
+   margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  padding: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+ /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+ }
+
+/* Demo Stuff End -> */
+
+/* <- Magic Stuff Start */
+
+.btn:hover {
+  background-position: right center; /* change the direction of the change here */
+   width: 10em;  height: 3em;
+}
+
+
+.btn-2 {
+  background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+    width: 10em;  height: 3em;
+  font-size: 100px;
+
+
+}
