@@ -3,7 +3,7 @@
 #### Youtube Video-
 #### Blog -
 
-## How to run this webapp on you machine-
+## How to run this webapp on your machine-
 ### 1. Clone the Repository in your PC/Laptop
 ### 2. Create a Virtual Environmet in the directory:
  #### --> Go to Command Prompt and Change the directory to the project directory
