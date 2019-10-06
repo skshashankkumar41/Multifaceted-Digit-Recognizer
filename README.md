@@ -1,7 +1,6 @@
 # A Webapp to Recognize Digit by Drawing and Voice 
 
 #### Youtube Video - https://youtu.be/f7YAeQuSfeY
-#### Blog - *COMING SOON
 
 ## How to run this webapp on your machine-
 ### 1. Clone the Repository in your PC/Laptop
