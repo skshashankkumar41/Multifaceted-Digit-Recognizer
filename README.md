@@ -1,18 +1,32 @@
-# A Webapp to Recognize Digit by Drawing and Voice 
+# Multifaceted Digit Recognizer
 
-#### Youtube Video - https://youtu.be/f7YAeQuSfeY
+A Webapp to Recognize Digit by Drawing and Voice 
 
-## How to run this webapp on your machine-
-### 1. Clone the Repository in your PC/Laptop
-### 2. Create a Virtual Environmet in the directory:
- #### --> Go to Command Prompt and Change the directory to the project directory
- #### --> Write the following command to create a vitual environment
- #### --> ..\Multifaceted_Digit_Recognizer_\> python -m venv env
-### 3. Now activate your virtual environment using this command:
- #### --> ..\Multifaceted_Digit_Recognizer_\> "\env\Scripts\activate"
-### 4. Now install the required packages using the folowing command and requirement.txt:
- #### --> (venv) ..\Multifaceted_Digit_Recognizer_\>pip install -r requirements.txt
-### 5. Now to run the server use the following command:
- #### --> (venv) ..\Multifaceted_Digit_Recognizer_\> python manage.py runserver
-### 6. Now just go to your localhost (usually http://127.0.0.1:8000/) in your browser
-    
+
+## Usage
+Clone the repository and follow the given steps to run the web app locally 
+
+#### 1. Create a Virtual Environment in the directory
+```
+ python -m venv env
+```
+#### 2. Activate your virtual environment using this command
+```
+ "\env\Scripts\activate"
+```
+#### 3. Install the required packages using the following command and requirement.txt
+```
+ pip install -r requirements.txt
+```
+#### 4. Now to run the server use the following command
+```
+ python manage.py runserver
+```
+#### 5. Now just go to your localhost (usually http://127.0.0.1:8000/) in your browser
+
+## Results 
+
+Watch this [Youtube video](https://youtu.be/f7YAeQuSfeY) 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
